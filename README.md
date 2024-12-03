@@ -6,5 +6,7 @@ O projeto consiste em uma interface gráfica capaz de simular através da lógic
 Foram utilizadas a linguagem de programação python, e a ferramenta Dash, para a confecção do frontend
 
 Leonardo Teodoro Costa de Oliveira
+
 Luiza Ribeiro de Martha
+
 Nicholas do Vales Siécola
